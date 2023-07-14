@@ -1,5 +1,4 @@
-Portfolio Mukesh
-This Portfolio is a small project using HTML / CSS. I will be using this to showcase my projects!
+This website is a small sample project using HTML / CSS. I will be using this to showcase my projects!
 
 Live Heroku Deployment
 
